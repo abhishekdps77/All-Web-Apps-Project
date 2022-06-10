@@ -9,4 +9,5 @@ https://abhishekdps77.github.io/weatherLensApp/
 ## IMDb website using HTML, CSS, JS and Fetch APIs
 https://abhishekdps77.github.io/IMDb/
 
-
+## Covid Watch App using React JS
+https://abhishekdps77.github.io/CovidWatch/
